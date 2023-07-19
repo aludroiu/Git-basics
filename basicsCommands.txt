@@ -1,3 +1,6 @@
 PUSH
 PULL
 FETCH
+Clone
+Clear
+Log
